@@ -93,7 +93,7 @@
         height: 500px;
         display:flex;
         flex-direction: column;
-        background-color: aquamarine;
+        background-color: rgb(60, 153, 122);
     }
     .visores{
         display: flex;
