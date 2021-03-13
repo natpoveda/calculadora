@@ -1,1 +1,6 @@
-<h1>I'm ready!</h1>
+<script>
+
+    import Marco from './Marco.svelte'
+</script>
+
+<Marco />
